@@ -1,0 +1,26 @@
+.divTop {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 5rem;
+  padding-top: 80px;
+}
+
+.iconText{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 1rem;
+}
+footer{
+    background-color: green;
+    height: 30vh;
+}
+.iconText p{
+    color: white;
+    font-size: 1.2rem;
+}
+.icon{
+    font-size: 1.2rem;
+    color: white;
+}
