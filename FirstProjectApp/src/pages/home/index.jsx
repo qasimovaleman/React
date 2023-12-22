@@ -12,11 +12,11 @@ const Home = () => {
                 ELECTRICAL <br />
                 SERVICE <br /> PROVIDERS
               </h1>
-              <p>
+              <p className="lorem">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Similique dicta ratione quas reprehenderit odit esse!
               </p>
-              <button>Contact Us</button>
+              <button className="contact">Contact Us</button>
             </div>
             <div className="divRight">
                 <img src={Shekil} alt="" />

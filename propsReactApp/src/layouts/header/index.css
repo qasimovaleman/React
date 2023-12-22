@@ -1,0 +1,32 @@
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ul{
+    padding: auto;
+    display: flex;
+    column-gap: 3rem;
+}
+header{
+    margin-bottom: 10vh;
+    background-color: rgb(196, 134, 91);
+    height: 12vh;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 25px;
+}
+ul a {
+    border-radius: 20px;
+    padding: 10px 15px;
+color: white;
+font-size: 1.1rem;
+}
+ul a:hover{
+    
+ 
+    background-color: rgb(147, 55, 175);
+}

@@ -24,3 +24,25 @@ footer{
     font-size: 1.2rem;
     color: white;
 }
+.divLeft{
+    position: relative;
+}
+.buttonDiv{
+    position: absolute;
+    left: 200px;
+    top: 0;
+}
+.emailInput{
+    padding: 10px ;
+    outline: none;
+    width: 200px;
+    height: 30px;
+}
+.subscribe{
+    width: 120px;
+    border: none;
+    height: 29px;
+    background-color: blueviolet;
+    color: white;
+    font-weight: 500;
+}

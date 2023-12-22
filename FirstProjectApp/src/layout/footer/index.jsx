@@ -12,21 +12,32 @@ function Footer() {
             <div className="divTop">
               <div className="iconText">
                 <div className="iconDiv">
-                  <CiLocationOn className="icon"/>
+                  <CiLocationOn className="icon" />
                 </div>
                 <p>Possoges of Lorem ipsum available</p>
               </div>
-              <div  className="iconText">
-                <div  className="iconDiv">
-                  <IoCall className="icon"/>
+              <div className="iconText">
+                <div className="iconDiv">
+                  <IoCall className="icon" />
                 </div>
                 <p>Call:+012334567890</p>
               </div>
-              <div  className="iconText">
-                <div  className="iconDiv">
-                  <MdEmail className="icon"/>
+              <div className="iconText">
+                <div className="iconDiv">
+                  <MdEmail className="icon" />
                 </div>
                 <p>demo@gmail.com</p>
+              </div>
+            </div>
+            <div className="divBottom">
+              <div className="divLeft">
+                <input type="text" placeholder="Enter your email" className="emailInput"/>
+                <div className="buttonDiv">
+                  <button className="subscribe">SUBSCRIBE</button>
+                </div>
+              </div>
+              <div className="divRight">
+                
               </div>
             </div>
           </div>

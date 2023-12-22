@@ -1,0 +1,13 @@
+table {
+    margin: 50px auto;
+  border-collapse: collapse;
+  border: 1px solid orangered;
+}
+thead th {
+    border: 1px solid orangered;
+  padding: 0.5rem 1rem;
+}
+tbody td{
+    padding: 0.5rem 1rem;
+    border: 1px solid orangered;
+}

@@ -1,0 +1,15 @@
+footer{
+    margin-top: 10vh;
+    background-color: darkorange;
+    height: 12vh;
+}
+.thisFooter{
+    font-size: 1.2rem;
+    padding-top: 20px;
+    text-align: center;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

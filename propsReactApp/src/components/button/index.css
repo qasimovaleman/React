@@ -1,0 +1,15 @@
+.pink{
+    background-color: blue;
+    height: 30px;
+    width: 100px;
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
+.pink.blue{
+    background-color: palevioletred;
+    color: white;
+    border: none;
+    width: 100px;
+    border-radius: 6px;
+}

@@ -19,12 +19,22 @@
   height: 280px;
   border-radius: 50%;
 }
-.divLeft button{
+.divLeft .contact{
+  cursor: pointer;
     transition: all 600ms;
     width: 110px;
+    transition: all 600ms;
     height: 30px;
     border-radius: 20px;
     border: none;
     background-color: blueviolet;
     color: white;
+}
+.divLeft .contact:hover{
+  border: 2px solid blueviolet;
+  background-color: white;
+  color: blueviolet;
+}
+.lorem{
+  margin: 15px 0;
 }
