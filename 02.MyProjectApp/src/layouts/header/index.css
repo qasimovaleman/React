@@ -1,0 +1,26 @@
+header {
+  background-color: palevioletred;
+}
+.header {
+  padding: 30px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+ul {
+  display: flex;
+  column-gap: 2rem;
+}
+.logo {
+  color: white;
+  font-size: 1.5rem;
+}
+ul a {
+    transition: all 600ms;
+  color: white;
+  font-size: 1.1rem;
+}
+ul li  .active {
+  color: black;
+  text-decoration: underline;
+}
